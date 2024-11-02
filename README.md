@@ -19,3 +19,9 @@ ipconfig getifaddr en0
 # whats ipconfig
 
 On a Mac, the ipconfig command is used to configure network interfaces and retrieve network configuration information. It's similar to the ifconfig command but is used for more specific network configuration tasks, such as obtaining IP addresses, DNS information, and renewing DHCP leases
+
+# hub, switch, & router
+
+A hub is a simple networking device used to connect multiple computers or devices within a local area network (LAN). It receives data from one device and broadcasts it to all other connected devices, without filtering or directing the data to a specific destination.
+
+https://www.youtube.com/watch?v=1z0ULvg_pW8&t=20s
