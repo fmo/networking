@@ -31,3 +31,10 @@ A router connects your local network to the internet, whereas hubs and switches 
 hubs and switches used for creating networks, while routers are used for connect networks
 
 https://www.youtube.com/watch?v=1z0ULvg_pW8&t=20s
+
+# layer 4 - transport layer
+
+TCP vs UDP: 
+
+TCP, reliable, ordered, slower - Connection orieented
+UDP, faster, less reliable - Connectionless
