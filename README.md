@@ -38,3 +38,8 @@ TCP vs UDP:
 
 TCP, reliable, ordered, slower - Connection orieented
 UDP, faster, less reliable - Connectionless
+
+# tools
+
+Cisco Packet Tracer
+https://www.youtube.com/watch?v=qZB_biPOBwA
